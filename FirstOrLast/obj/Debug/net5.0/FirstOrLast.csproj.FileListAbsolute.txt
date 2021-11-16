@@ -1,0 +1,15 @@
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.AssemblyInfo.cs
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.exe
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.deps.json
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.runtimeconfig.json
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.runtimeconfig.dev.json
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.dll
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\ref\FirstOrLast.dll
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.dll
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\ref\FirstOrLast.dll
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.genruntimeconfig.cache

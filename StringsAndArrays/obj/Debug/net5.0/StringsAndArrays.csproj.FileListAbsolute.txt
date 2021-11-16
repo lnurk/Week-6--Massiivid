@@ -1,0 +1,16 @@
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.exe
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.deps.json
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.runtimeconfig.json
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.runtimeconfig.dev.json
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\ref\StringsAndArrays.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.csproj.AssemblyReference.cache
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.AssemblyInfo.cs
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\ref\StringsAndArrays.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.genruntimeconfig.cache

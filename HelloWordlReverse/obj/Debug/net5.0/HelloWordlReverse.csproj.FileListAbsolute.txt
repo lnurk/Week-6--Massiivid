@@ -1,0 +1,15 @@
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\bin\Debug\net5.0\HelloWordlReverse.exe
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\bin\Debug\net5.0\HelloWordlReverse.deps.json
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\bin\Debug\net5.0\HelloWordlReverse.runtimeconfig.json
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\bin\Debug\net5.0\HelloWordlReverse.runtimeconfig.dev.json
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\bin\Debug\net5.0\HelloWordlReverse.dll
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\bin\Debug\net5.0\ref\HelloWordlReverse.dll
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\bin\Debug\net5.0\HelloWordlReverse.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\obj\Debug\net5.0\HelloWordlReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\obj\Debug\net5.0\HelloWordlReverse.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\obj\Debug\net5.0\HelloWordlReverse.AssemblyInfo.cs
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\obj\Debug\net5.0\HelloWordlReverse.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\obj\Debug\net5.0\HelloWordlReverse.dll
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\obj\Debug\net5.0\ref\HelloWordlReverse.dll
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\obj\Debug\net5.0\HelloWordlReverse.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\HelloWordlReverse\obj\Debug\net5.0\HelloWordlReverse.genruntimeconfig.cache

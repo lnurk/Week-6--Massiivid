@@ -1,0 +1,15 @@
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfo.cs
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.exe
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.deps.json
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.json
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.dev.json
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\ref\StringReplace.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\ref\StringReplace.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.genruntimeconfig.cache

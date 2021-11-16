@@ -1,0 +1,16 @@
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\bin\Debug\net5.0\HOLCounter.exe
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\bin\Debug\net5.0\HOLCounter.deps.json
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\bin\Debug\net5.0\HOLCounter.runtimeconfig.json
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\bin\Debug\net5.0\HOLCounter.runtimeconfig.dev.json
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\bin\Debug\net5.0\HOLCounter.dll
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\bin\Debug\net5.0\ref\HOLCounter.dll
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\bin\Debug\net5.0\HOLCounter.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\obj\Debug\net5.0\HOLCounter.csproj.AssemblyReference.cache
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\obj\Debug\net5.0\HOLCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\obj\Debug\net5.0\HOLCounter.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\obj\Debug\net5.0\HOLCounter.AssemblyInfo.cs
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\obj\Debug\net5.0\HOLCounter.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\obj\Debug\net5.0\HOLCounter.dll
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\obj\Debug\net5.0\ref\HOLCounter.dll
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\obj\Debug\net5.0\HOLCounter.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\HOLCounter\obj\Debug\net5.0\HOLCounter.genruntimeconfig.cache

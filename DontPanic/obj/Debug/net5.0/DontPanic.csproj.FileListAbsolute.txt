@@ -1,0 +1,15 @@
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.exe
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.deps.json
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.runtimeconfig.json
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.runtimeconfig.dev.json
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.dll
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\bin\Debug\net5.0\ref\DontPanic.dll
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.AssemblyInfo.cs
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.dll
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\obj\Debug\net5.0\ref\DontPanic.dll
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.genruntimeconfig.cache

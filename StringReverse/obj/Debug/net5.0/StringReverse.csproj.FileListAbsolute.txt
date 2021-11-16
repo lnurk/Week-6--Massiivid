@@ -1,0 +1,16 @@
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.csproj.AssemblyReference.cache
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.AssemblyInfoInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.AssemblyInfo.cs
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.exe
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.deps.json
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.runtimeconfig.json
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.runtimeconfig.dev.json
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\ref\StringReverse.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\bin\Debug\net5.0\StringReverse.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\ref\StringReverse.dll
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.pdb
+C:\Users\lisan\source\repos\StringsAndArrays\StringReverse\obj\Debug\net5.0\StringReverse.genruntimeconfig.cache
